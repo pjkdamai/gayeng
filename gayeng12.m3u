@@ -367,17 +367,22 @@ https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas03
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgba/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+https://kiwkiw.iptvgo.workers.dev/http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas04
-https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1700535586-0-0-6af7ea768de02356cc97f25431b9ac30
-#http://103.166.27.2:8112/play/a015/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+https://kiwkiw.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
-http://103.166.27.2:8112/play/a018/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/10
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas06
-https://mantul.biz.id:443/ekos/748382/5286.ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas07
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
@@ -397,9 +402,8 @@ https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpor
 https://d1ahy1km7unmk9.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/hB1Po.png" group-title="Live Event",BRI 3
-http://103.166.27.2:8112/play/a016
-#http://xtv.ooo:8080/493121299/992121394/350972
-http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/9
 
 ======================AL QURAN==========================
 
