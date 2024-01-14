@@ -1255,9 +1255,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDZOR.png",0.SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
-#https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
-http://103.84.206.6:1234/stream/test/ssc1/stream.m3u8?uid=427374924&u=andi&p=6e433abeeccf2ae67638bad14d131f2cfba7c460b1ef6f8fa59b1acb296de05d
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD5cp.png",0.SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
@@ -1276,8 +1275,8 @@ https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/i
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDx3S.png",0.SSC EXTRA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDLRd.png",0.SSC EXTRA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
