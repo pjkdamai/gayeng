@@ -1,103 +1,26 @@
-﻿<!DOCTYPE html><head></head><body><!DOCTYPE html><!DOCTYPE html>
-<html lang="en">
-<script language="javascript">
-  window.location = "https://www.youtube.com/watch?v=oDXGaWDBp-k";
-</script>
-
-<script>
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
 <!DOCTYPE html>
-<html>
+<html style="height:100%">
 <head>
-  <title>Shaka Player Multiple MPD with Clear Key Example</title>
-  <!-- Include the Shaka Player library -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/3.0.0/shaka-player.compiled.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 403 Forbidden
+</title></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Forbidden
+</h2>
+<p>Access to this resource on the server is denied!</p>
+</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
+<br>Proudly powered by  <a style="color:#fff;" href="http://www.litespeedtech.com/error-page">LiteSpeed Web Server</a><p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+
+<!--
+<head>
+  <meta http-equiv='refresh' content='0; URL=https://google.com'>
 </head>
-<body>
-  <!-- Define multiple video elements for each stream -->
-  <video id="video-element-1" width="640" height="360" controls></video>
-  <video id="video-element-2" width="640" height="360" controls></video>
+<noscript>
+ 
 
-  <script>
-    // Initialize Shaka Player for each video element
-    const videoElement1 = document.getElementById('video-element-1');
-    const videoElement2 = document.getElementById('video-element-2');
 
-    const manifestUrls = [
-      'URL_TO_MANIFEST_1', // Replace with your first manifest URL
-      'URL_TO_MANIFEST_2', // Replace with your second manifest URL
-    ];
-
-    const clearKeys = [
-      {
-        // Clear Key values for the first manifest
-        'YOUR_KEY_ID_HEX_1': 'YOUR_KEY_HEX_1',
-      },
-      {
-        // Clear Key values for the second manifest
-        'YOUR_KEY_ID_HEX_2': 'YOUR_KEY_HEX_2',
-      },
-    ];
-
-    async function initPlayer(videoElement, manifestUri, clearKeyConfig) {
-      try {
-        // Create a Shaka Player instance for each video element
-        const player = new shaka.Player(videoElement);
-
-        // Configure the player to use Clear Key encryption
-        player.configure({
-          drm: {
-            clearKeys: clearKeyConfig,
-          },
-        });
-
-        // Load the manifest and start playback
-        await player.load(manifestUri);
-      } catch (error) {
-        console.error('Error loading stream:', error);
-      }
-    }
-
-    // Initialize players for each stream
-    initPlayer(videoElement1, manifestUrls[0], clearKeys[0]);
-    initPlayer(videoElement2, manifestUrls[1], clearKeys[1]);
-  </script>
-</body>
-</html>
 
 
 
@@ -201,7 +124,7 @@ https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.m
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 3
@@ -278,7 +201,7 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-https://kiwkiw.iptvgo.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 ==========================gp============================
 
@@ -292,13 +215,13 @@ http://103.166.27.2:8112/play/a01c/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 #https://1.yurend.xyz/dash-wv/linear/5058/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",Live GP2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #https://1.yurend.xyz/dash-wv/linear/5079/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 #https://astro.cdnstreamr.workers.dev/dash-wv/linear/5079/default.mpd
 
 =======================bh=================================
@@ -369,12 +292,12 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerch
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas03
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://kiwkiw.iptvgo.workers.dev/http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+https://ikuikuiku.iptvgo.workers.dev/http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas04
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -904,7 +827,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
 #EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png",26.WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 =======================KIDZ==============================
 
@@ -1419,31 +1342,31 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",02.Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1470,7 +1393,7 @@ https://m2.ballnaja.com/assp3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2506/default_primary.mpd
-https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 ====================semprotan2=======================
 
