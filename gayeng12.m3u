@@ -1469,16 +1469,16 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDsVT.png",03.TNT Sports 1 
 #EXTGRP:Semprotan2 
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8 
+#https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDcCG.png",03.TNT Sports 2 
 #EXTGRP:Semprotan2 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8 
+#https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDoaL.png",03.TNT Sports 3 
 #EXTGRP:Semprotan2 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDX73.png",03.TNT Sports 4 
 #EXTGRP:Semprotan2 
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDjSW.png",03.TNT Sports 5 
 #EXTGRP:Semprotan2 
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
@@ -1695,23 +1695,23 @@ http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan2" ,beIN USA
 #https://livecdn.rumsport.com/stream/8/index.m3u8|referer=https://live-streamfootball.com
 #EXTINF:-1 tvg-id="Digi_Sport_1" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa988.png", Digi Sport 1
-https://play.stirilepe.net/digisport1hd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/digisport1hd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="Digi_Sport_2" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaDQD.png", Digi Sport 2
-https://play.stirilepe.net/digisport2hd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/digisport2hd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="Digi_Sport_3" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaajQ.png", Digi Sport 3
-https://play.stirilepe.net/digisport3sd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/digisport3sd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="Digi_Sport_4" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Papd1.png", Digi Sport 4
 https://play.stirilepe.net/digisport4sd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="PrimaSport_1" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PauBX.png", PrimaSport 1
-https://play.stirilepe.net/primasport1hd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/primasport1hd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="PrimaSport_2" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PavkN.png", PrimaSport 2
-https://play.stirilepe.net/primasport2sd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/primasport2sd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="PrimaSport_3" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa30E.png", PrimaSport 3
-https://play.stirilepe.net/primasport3sd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/primasport3sd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="Pro_Arena" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PazLs.png", Pro Arena
-https://play.stirilepe.net/proarenasd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/proarenasd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1 tvg-id="Sport_Extra" group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa0gr.png", Sport Extra
-https://play.stirilepe.net/sportextrahd/index.m3u8|referer=https://rds.live/
+#https://play.stirilepe.net/sportextrahd/index.m3u8|referer=https://rds.live/
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.ibb.co/4J4xs44/fox.png", FOX SPORTS 1arg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
@@ -1757,11 +1757,11 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hH4tZ.png",TV2 Sport1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c020ccd5e9dc7b0d40e0da996e3d9c7:f91af4dab54e9c027d21f4d78abb7a75
-https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
+#https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hHMVm.png",TV2 Sport2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6932f68ee603c69b1bbeff9cb11d23fb:ad518d9d047e077654ab073d643cd270
-https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
+#https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0i2W.png",FIFA +
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0i2W.png",FIFA +2
