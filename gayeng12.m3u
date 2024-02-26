@@ -114,197 +114,6 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/25/hrcZf.png" group-title="INFORMASI",2_Pojok Gayeng
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-======================badminton=========================
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-=======================live=============================
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 02
-http://198.16.100.90:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 04
-https://7pal.short.gy/VSportUHD
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb47a574b75f442e9ec7d7fcfb480b18:8d2b59d7d87085c3fdeadd4b610021c7
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 06
-https://7pal.short.gy/tntspts1
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 07
-https://7pal.short.gy/tntspts2
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 08
-https://7pal.short.gy/tntspts3
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 09
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge1-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 11
-https://7pal.short.gy/HPremier1
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 12
-https://7pal.short.gy/HPremier2
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 13
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 14
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=9AHuedo13h
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 15
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&extension=ts&play_token=Et5fP65J8n
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 16
-https://7pal.short.gy/ssblgde
-
-==========================gp============================
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",Live GP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live11.secureswiftcontent.com/UnifiHD/live05.mpd
-#http://103.166.27.2:8112/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",Live GP1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://ikuikuiku.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",Live GP2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://ikuikuiku.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default.mpd
-
-=======================bh=================================
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM01
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM02
-#https://af.ayas.ir/hls2/bein2.m3u8
-#https://hls.ustream.to/KBS-N-SPORTS.m3u8
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webhd.ru/lb/premium123/index.m3u8
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webhd.ru/lb/premium125/index.m3u8
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM05
-https://7pal.short.gy/ssportsfb
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM06
-https://7pal.short.gy/nowhkp1
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM07
-https://7pal.short.gy/ssportspl
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM08
-https://7pal.short.gy/usanetwork
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM09
-https://7pal.short.gy/HubP2uhd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM10
-https://7pal.short.gy/11sports1
-
-======================timnas=============================
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas01
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas02
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://ikuikuiku.iptvgo.workers.dev/http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://ikuikuiku.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/10
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas06
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas07
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
-
-=================bri================================
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/hB1Po.png" group-title="Live Event",BRI 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/hB1Po.png" group-title="Live Event",BRI 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/hB1Po.png" group-title="Live Event",BRI 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/9
 
 ======================AL QURAN==========================
 
@@ -1199,68 +1008,12 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live BH
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/S0007.m3u8
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live BH1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/HLS/S0006.m3u8
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live BH2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/HLS/S0005.m3u8
-
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live BH3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/HLS/S0004.m3u8
-
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 1
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 2
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 3
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://i.postimg.cc/d31TLPqr/bh15.png" group-title="Admin",Live GP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3db5763be5d972a055f76d695ef67fd:acf0c99460b432f0c0a4fc868ecb09ec
-#https://bcovlive-a.akamaihd.net/0081b9bb20ed47e9b6e048570be26a78/ap-northeast-1/6271486521001/playlist.mpd
-#EXTINF:-1 tvg-name="6"  tvg-logo="https://i.postimg.cc/d31TLPqr/bh15.png" group-title="Admin",Live GP2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eef8321d2253089306686f9dd0c1bc68:9bcf43e5b5b35b9df3b613dc5ba707f3
-#https://bcovlive-a.akamaihd.net/7133d2d3d61c47758d6d6f4c181b521a/ap-northeast-1/6271486521001/playlist.mpd
-
-#EXTINF:-1 group-title="Semprotan1" tvg-id="ON GOLF" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9URG.png",ON GOLF 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df6c6f36950c449db17d3fb2ed643aed:28c9084331bf40716d57c4bf84ef4b84
-#https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
-#EXTINF:-1 group-title="Semprotan1" tvg-id="ON FOOTBALL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9dAL.png",ON FOOTBALL 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
-#https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-#EXTINF:-1 group-title="Semprotan1"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9y93.png",ON SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc35643fb584b7fbbef735f8e919d85:69272d17d78a7fa075ba34909f85d881
-#https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
-#EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD71W.png",MIO SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
-#https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
-#EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9dAL.png",ON Football Eng
-#https://cukk.iptvgo.workers.dev/https://live2onsport.vtvcab.vn/onplus/ONFOOTBALLTA/m30_index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvQmd.png" group-title="Semprotan1", Usee Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1292,26 +1045,28 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 01AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 01
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330457&extension=ts&play_token=3XWc1rIXr2
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 02AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 02
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330458&extension=ts&play_token=5qFMBbq6ve
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 03AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 03
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330459&extension=ts&play_token=GMV2fLHiK9
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 04AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 04
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330460&extension=ts&play_token=Rpp56gZzg0
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330461&extension=ts&play_token=xXYTRtDsJU
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330462&extension=ts&play_token=jBQzIC10Dh
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330463&extension=ts&play_token=yUICKaxd4X
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330464&extension=ts&play_token=PgijhWlRhC
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 09AR
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 09
 #http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330465&extension=ts&play_token=xeaOF42VVL
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 10AR
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330456&extension=ts&play_token=Wqb2u8l32c
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_1_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
 https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1691405066&rand=lDgfOC4s2f&uuid=9b647b3816b2a66a&from=web&sign=e2c2fbe2763a204599dc3aefeaaf2a8f
@@ -1404,62 +1159,62 @@ https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/da
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62|http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD6Oi.png",00.DAZN 02 ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62|http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDBoh.png",0.DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62|http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDFYz.png",0.DAZN 2 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62|http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-018/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="daznf1.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDADD.png",00.DAZN F1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd  
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-016/stream.mpd  
 #EXTINF:-1 group-title="Semprotan2" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",00.DAZN LaLiga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
-https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd  
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-043/stream.mpd  
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDfC8.png",00.DAZN ELEVEN 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-050/stream.mpd        
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-050/stream.mpd        
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDWS1.png",00.EPlay Sports 1 Belgia  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd   
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-051/stream.mpd   
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDgoX.png",00.EPlay Sports 2 Belgia  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd    
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-052/stream.mpd    
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD2wN.png",00.EPlay Sports 3 Belgia  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd  
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-053/stream.mpd  
 #EXTINF:-1 group-title="Semprotan2" tvg-id="DAZN RISE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDGnE.png",00.DAZN RISE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-046/stream.mpd  
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-046/stream.mpd  
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDMGs.png",00.ZONA DAZN   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-024/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="elevensports1poland.pl" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png", Eleven Sports PRO LEAGUE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1512,24 +1267,24 @@ https://live.tv247us.com/tv247/fs2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-032/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="eurosport1uk.uk" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD3Cd.png",EuroSport 1ESP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-031/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="MILAN TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PDErz.png",MILAN TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-025/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="intertv.it" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/P371d.png",Inter TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-033/stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PDUM2.png" group-title="Semprotan2", mu tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
@@ -1562,42 +1317,42 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-054/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="elevensports2poland.pl" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaRX1.png",02.Eleven Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-055/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="elevensports3poland.pl" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaVEX.png",02.Eleven Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-056/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaK6N.png",02.Eleven Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-057/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaLME.png",02.Eleven Sports 5 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-058/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaPzs.png",02.Eleven Sports 6 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-059/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PanKr.png",01.Arena Sport 1 Bosnia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1644,27 +1399,27 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-044/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="NFL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pabif.png",NFL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-023/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="MLB" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Paf0Z.png",MLB 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-026/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="NBA TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaCKm.png",NBA TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-035/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="REDBULL TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaIWS.png",REDBULL TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-036/stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa25o.png" group-title="Semprotan2",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa4QB.png" group-title="Semprotan2",Motorvision TV
@@ -1884,3 +1639,4 @@ https://cldup.com/iZBLW8MP4Tp.mp4?download=Kung.Fu.Panda.2008.HDTV.720p.Dubbing_
 https://moon-400ge-streaming-server.dvsdvsdvsdva.com/hls3/01/02750/zt7029wogc70_n/index-v1-a1.m3u8?t=JFu0fL06M1fbxdL0kw3sqrhPZEsEdHL3oWnQ5BZHw_k&s=1679552674&e=43200&f=13753962&srv=moon-storage-delivery-s30.dasmanksdajkdasd.com&asn=24203&sp=3000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e6/Kung_Fu_Panda_3_poster.jpg/220px-Kung_Fu_Panda_3_poster.jpg" group-title="VOD KIDS",Kung Fu Panda 3 (2016) 
 https://cldup.com/iCs_X1j_ZZ4.mp4
+
