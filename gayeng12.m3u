@@ -1105,7 +1105,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
-https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+#https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_408/manifest.mpd
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
