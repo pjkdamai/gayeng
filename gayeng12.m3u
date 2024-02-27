@@ -1008,12 +1008,6 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 1
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 2
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Y4r.png",beINSport 3
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvQmd.png" group-title="Semprotan1", Usee Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1046,27 +1040,57 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 01
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330457&extension=ts&play_token=3XWc1rIXr2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 02
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330458&extension=ts&play_token=5qFMBbq6ve
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 03
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330459&extension=ts&play_token=GMV2fLHiK9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 04
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330460&extension=ts&play_token=Rpp56gZzg0
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330461&extension=ts&play_token=xXYTRtDsJU
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330462&extension=ts&play_token=jBQzIC10Dh
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330463&extension=ts&play_token=yUICKaxd4X
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330464&extension=ts&play_token=PgijhWlRhC
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 09
-#http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330465&extension=ts&play_token=xeaOF42VVL
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 09
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
+https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_1_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
 https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1691405066&rand=lDgfOC4s2f&uuid=9b647b3816b2a66a&from=web&sign=e2c2fbe2763a204599dc3aefeaaf2a8f
@@ -1077,19 +1101,16 @@ https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QprYNpG/ad2.png" group-title="Semprotan1",ABU DHABI SPORTS 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png" group-title="Semprotan1",beIN Sports 1my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
 https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
-
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default_primary.mpd
 https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
-
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
