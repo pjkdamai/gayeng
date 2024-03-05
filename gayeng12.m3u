@@ -1012,12 +1012,10 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvQmd.png" group-title="Semprotan1", Usee Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0WT6RX/alkass1.png" group-title="Semprotan1",Alkass one
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
@@ -1108,36 +1106,36 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/m
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png" group-title="Semprotan1",beIN Sports 1my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/408/default_primary.mpd
 #https://ikuikuiku.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_408/manifest.mpd
+
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default_primary.mpd
-https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/5066/default_primary.mpd
+#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default_primary.mpd
-https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/2705/default_primary.mpd
+#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default_primary.mpd
-https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/2604/default_primary.mpd
+#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",02.Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default_primary.mpd
-https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/5057/default_primary.mpd
+#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webhd.ru/lb/premium123/index.m3u8
+https://m2.ballnaja.com/assp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9u9Q.png" group-title="Semprotan1",02.Assp2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1156,8 +1154,8 @@ http://11.troya.today:34000/ch1991/mono.m3u8?token=pioner1950.CP2cYaEwspDA5Y_cT4
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9tNX.png" group-title="Semprotan1",02.Assp4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2506/default_primary.mpd
-https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+https://mailmei.theriumworld29.workers.dev/dash-wv/linear/2506/default_primary.mpd
+#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 ====================semprotan2=======================
 
