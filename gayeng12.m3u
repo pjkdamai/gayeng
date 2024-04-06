@@ -1181,10 +1181,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0WT6RX/alkass1.png" group-title="Semprotan1",Alkass one
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+https://hqth.me/Spyalkass_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qD7mWk8/alkass2.png" group-title="Semprotan1",Alkass two
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+https://hqth.me/Spyalkass_2
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hivem.png" group-title="Semprotan1",Star Sport Select 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://raw.githubusercontent.com/fgyip/Coba/main/starsportsselect1.m3u8
@@ -1297,28 +1297,32 @@ https://mailmei.theriumworld29.workers.dev/dash-wv/linear/5057/default_primary.m
 #https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://m2.ballnaja.com/assp/playlist.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9u9Q.png" group-title="Semprotan1",02.Assp2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-#http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-#https://m2.ballnaja.com/assp2/playlist.m3u8
-http://103.161.119.187:80/play/dwDeGjO-uwlzAAH74BCTwdqwWiAzYmUR1wUtS3D1fWpRQedv70zCE9HdZ9XQaxLr/ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9311.png" group-title="Semprotan1",02.Assp3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-#http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
-#https://m2.ballnaja.com/assp3/playlist.m3u8
-http://11.troya.today:34000/ch1991/mono.m3u8?token=pioner1950.CP2cYaEwspDA5Y_cT4pt6YL4U6zlXOwg2aiflfbDrxMOzE0bPuuYaazre0bOUk6h
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9tNX.png" group-title="Semprotan1",02.Assp4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://mailmei.theriumworld29.workers.dev/dash-wv/linear/2506/default_primary.mpd
-#https://mailmei.theriumworld29.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|origin=https://claplivehdplay.ru/
 
 ====================semprotan2=======================
 
