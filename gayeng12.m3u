@@ -252,6 +252,8 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https:/
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjJ3G.png" group-title="Lokal",16.NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozila/5.0
+https://iptvqreatif.github.io/iptv/nettv.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PmzLS.png",17.MOJI 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
@@ -318,11 +320,168 @@ http://watchlive.my.id/useeprime/manifest.mpd
 #EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjcCB.png",CITRA BIOSKOP
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 #EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjoDY.png",CITRA DRAMA
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.mpd?id=cdrama
 #EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjX7i.png",CITRA DANGDUT
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=citradangdut
 #EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjjSh.png",CITRA ENTERTAINMENT
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+
+=====================================lokal digital====================================
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjZNz.png" group-title="Lokal digital",02.RCTI 
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjhD1.png" group-title="Lokal digital",08.MNC TV 
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjPAQ.png" group-title="Lokal digital",09.GTV 
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjLRD.png" group-title="Lokal digital",07.Trans 7 
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pjx38.png" group-title="Lokal digital",06.Trans TV
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
+
+#EXTINF:-1 group-title="Lokal digital" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PmzLS.png",17.MOJI 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="Lokal digital",03.SCTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="Lokal digital",03.SCTV
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjRhu.png" group-title="Lokal digital",04.Indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjRhu.png" group-title="Lokal digital",04.Indosiar
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjJ3G.png" group-title="Lokal digital",16.NET TV
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjV4C.png" group-title="Lokal digital",05.ANTV 
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="Indonesia Channels",RTV
+#http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/640.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj6ON.png" group-title="Lokal digital",11.Kompas TV
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/639.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pjr1X.png" group-title="Lokal digital",10.MetroTV
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj71h.png" group-title="Lokal digital",01.tvOne
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=vlc
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjBcE.png" group-title="Lokal digital" tvg-id="iNews" tvg-name="iNews", 12.iNews
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
+
 
 ========================news=============================
 
