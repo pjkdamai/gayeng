@@ -133,9 +133,9 @@ https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearj
 https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506 
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1294,6 +1294,7 @@ https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QprYNpG/ad2.png" group-title="Semprotan1",ABU DHABI SPORTS 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png" group-title="Semprotan1",beIN Sports 1my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
