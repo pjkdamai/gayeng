@@ -117,14 +117,18 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live GP1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5058/default_primary.mpd
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5058/default.mpd
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+#https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5058/default_primary.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5058/default.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live GP2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5079/default_primary.mpd
-#https://astro.cdnstreamr.workers.dev/dash-wv/linear/5079/default.mpd
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+#https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5079/default_primary.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5079/default.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1355,13 +1359,20 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/m
 
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png" group-title="Semprotan1",beIN Sports 1my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/408/default.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.devhttps://linearjitp02-playback.astro.com.my/dash-wv/dashiso/408/default.mpd
 
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
@@ -1369,10 +1380,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5066/default.mpd
 
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2705/default.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/dashiso/2705/default.mpd
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
