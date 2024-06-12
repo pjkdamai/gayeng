@@ -196,13 +196,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas06
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas07
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 #https://www.vidio.com/watch/1431511-indonesia-vs-filipina-aff-u-16-championship-2018?channel_id=25898049
+
+#EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas08
+http://vipkely.xyz:8080/VIP013169192691012/01691926910/34327
 
 ======================AL QURAN==========================
 
