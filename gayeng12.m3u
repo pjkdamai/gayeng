@@ -1060,7 +1060,7 @@ https://cors-proxy.elfsight.com/https://peytv.fun/play/pribadi@peytv.fun/7848769
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten2.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9QmW.png",05.Sony Ten2 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
+https://cors-proxy.elfsight.com/https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten3.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9byR.png",05.Sony Ten3 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1221,38 +1221,45 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/b
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12114
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 02
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12115
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 03
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12116
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12117
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12118
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12119
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12120
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
