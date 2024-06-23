@@ -118,15 +118,14 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live GP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live GP1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live GP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -153,9 +152,9 @@ https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
 https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 02
 #KODIPROP:inputstream.adaptive.license_type=clearkey
