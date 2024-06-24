@@ -474,13 +474,13 @@ ch.close();
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV STADIA" tvg-logo="" group-title="HOME TV (not ott)",SPOTV STADIA
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://raw.githubusercontent.com/ghozitv/Playlist/main/EURO2024.m3u
+https://cors-proxy.cooks.fyi/https://raw.githubusercontent.com/ghozitv/Playlist/main/EURO2024.m3u
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR Lokal
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
+https://cors-proxy.cooks.fyi/https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HOME TV (not ott)",INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar
+https://cors-proxy.cooks.fyi/https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV Lokal
 https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV%20Lokal
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HOME TV (not ott)",SCTV
