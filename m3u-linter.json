@@ -2466,9 +2466,10 @@ https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/linear/5085
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="#🌍 EPL with VPN 🌍#", 🇸🇬 Hub Premier 2 - 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-#https://hzbcdcv.xyz/bpk-tv//HubPremier2_4K/output/manifest.mpd?type=dash
+https://hzbcdcv.xyz/bpk-tv//HubPremier2_4K/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2512,18 +2513,21 @@ https://hzbcdcv.xyz/sg/HubPremier4/output/manifest.mpd?type=dash
 https://hzbcdcv.xyz/sg/HubPremier5/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 #https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
 https://hzbcdcv.xyz/sg/HubPremier6/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#", 🇸🇬 Hub Premier 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
 #https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
 https://hzbcdcv.xyz/sg/HubPremier7/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 #https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
