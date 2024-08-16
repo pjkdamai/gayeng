@@ -650,12 +650,13 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcsyZ.png" group-title="Movies",26.Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live27.mpd
+#https://unifi-live08.secureswiftcontent.com/UnifiHD/live27.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live27.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://i.ibb.co/CKPDxdX/siar.png",23.SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png",26.WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
