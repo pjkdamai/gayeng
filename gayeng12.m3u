@@ -459,11 +459,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 =========================MOVIES==========================
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj3CD.png" group-title="Movies",01.MOVIE SHAPIER
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6ba8673e29410d8142098c37cc702f:c5da96131ad59385fffe169cd8c1ec24
-https://wp2-obc0304-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV06083/manifest.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="CinemachiHD.id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcesS.png" group-title="Movies",02.Cinemachi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -661,9 +658,8 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live27.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png",26.WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2605/default_primary.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 =======================KIDZ==============================
 
@@ -749,10 +745,12 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 ======================KNOWLEDGE==========================
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Poh9p.png" group-title="KNOWLEDGE" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD",01.Animal Planet fm
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Poh9p.png" group-title="KNOWLEDGE" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD",01.Animal Planet
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Por1f.png" group-title="KNOWLEDGE" tvg-id="BBC Earth" tvg-name="BBC Earth",02.BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -760,22 +758,29 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po6OZ.png" group-title="KNOWLEDGE" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD",03.Discovery Channel  
-http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoBcm.png" group-title="KNOWLEDGE" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD",04.Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9092f718b471428aa32cdf657f9a295c:bb71673aac0f24926915042c2bb0e653
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoFYS.png" group-title="KNOWLEDGE" tvg-id="National Geographic HD" tvg-name="National Geographic HD",05.National 
 Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30347e4e45d048eda9600b613ccc4e39:3f5e20a42a5185bdb862e964723f3b89
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluenationalgeographicro/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoOhd.png" group-title="KNOWLEDGE" tvg-id="History HD" tvg-name="History HD",06.History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -803,19 +808,26 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoCh
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PojOE.png" group-title="KNOWLEDGE",03.Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po6OZ.png" group-title="KNOWLEDGE",Discovery Channel
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pomos.png" group-title="KNOWLEDGE",03.Discovery Science
-https://github.com/kusnadipepenk/ntn/raw/master/discien.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoverysci.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po9wr.png" group-title="KNOWLEDGE",09.Dmax
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoanT.png" group-title="KNOWLEDGE",10.Global Trekker
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/globaltrekker.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoqtL.png" group-title="KNOWLEDGE" ,03.Discovery Asia HD
 http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
