@@ -948,7 +948,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.
 #EXTINF:-1 tvg-id="816.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9nkE.png" group-title="Semprotan1",01.SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SCM/sa_dash_vmx/SCM.mpd|Referer=https://www.visionplus.id/&user-agent=Android 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android 
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9rTs.png" group-title="Semprotan1",01.SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -992,44 +992,52 @@ https://cors-proxy.elfsight.com/https://peytv.fun/play/pribadi@peytv.fun/7848769
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonysix.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Csf.png",05.Sony Ten5 HD  
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports5_norvegicus/playlist.m3u8
+https://allinonereborn.com/jiobe1125.m3u8/?id=8422
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpJf8.png" group-title="Semprotan1",04.True Premier Football 1 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9kmY.png" group-title="Semprotan1",04.True Premier Football 2 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_shareext@premier2TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9syi.png",04.True Premier Football 3
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186569&extension=ts&play_shareext@premier3TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9oNh.png",04.True Premier Football 4
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186571&extension=ts&play_shareext@premier4TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9esz.png",04.True Premier Football 5
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186573&extension=ts&play_shareext@premier5HD.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TrueSports1.th" tvg-name="TrueSport HD" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpQmD.png" group-title="Semprotan1",04.TrueSport HD 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TrueSports2.th" tvg-name="TrueSport HD 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9mhx.png" group-title="Semprotan1",04.TrueSport HD 2 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186593&extension=ts&play_shareext@truesport2TH.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TrueSports3.th" tvg-name="TrueSport HD 3" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P992u.png" group-title="Semprotan1",04.TrueSport HD 3 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186602&extension=ts&play_shareext@@truesport3.ts
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-name="BeIn Sports 1 HD"group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png",04.BeIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-name="BeIn Sports 2 HD" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",04.BeIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1037,9 +1045,9 @@ https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00
 #https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-name="BeIn Sports 2 HD" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",04.BeIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-#https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDZOR.png",0.SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1093,18 +1101,18 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvQmd.png" group-title="Semprotan1", Usee Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvQmd.png" group-title="Semprotan1", Usee Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0WT6RX/alkass1.png" group-title="Semprotan1",Alkass one
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qD7mWk8/alkass2.png" group-title="Semprotan1",Alkass two
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hivem.png" group-title="Semprotan1",Star Sport Select 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -1126,7 +1134,7 @@ http://198.16.100.90:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKNM295/bi.png" group-title="Semprotan1",BeinSport 3
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1134,51 +1142,51 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 01
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12114
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12114
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 02
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12115
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12115
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 03
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12116
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12116
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12117
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12117
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12118
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12118
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12119
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12119
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 #https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12120
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12120
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 08
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1198,10 +1206,10 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_1_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-#https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1691405066&rand=lDgfOC4s2f&uuid=9b647b3816b2a66a&from=web&sign=e2c2fbe2763a204599dc3aefeaaf2a8f
+https://cors-proxy.cooks.fyi/http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b0252c3b-5e6a-4b29-9e21-7140d461015a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_2_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-#https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1690903986&rand=vXFVUVFSko&uuid=9b647b3816b2a66a&from=web&sign=2248b184e8c32c09539225600b19ce41
+https://cors-proxy.cooks.fyi/http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b56a4938-16c7-46cb-afb1-82633982028e.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M9YgSzW/ad1.png" group-title="Semprotan1",ABU DHABI SPORTS 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
@@ -1218,8 +1226,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/408/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11937
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+http://metatvpro.xyz:25461/W1045/4329/151
 
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1230,8 +1238,8 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5066/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11938
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+http://metatvpro.xyz:25461/W1045/4329/13766
 
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1241,8 +1249,8 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2705/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11939
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+http://metatvpro.xyz:25461/W1045/4329/152
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1251,7 +1259,7 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2604/default.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
 
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",02.Arena 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1260,19 +1268,16 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5057/default.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
+#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
+https://cors-proxy.cooks.fyi/https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9u9Q.png" group-title="Semprotan1",02.Assp2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9311.png" group-title="Semprotan1",02.Assp3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9tNX.png" group-title="Semprotan1",02.Assp4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1280,8 +1285,7 @@ https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6Nw
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2506/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ====================semprotan2=======================
 
