@@ -116,9 +116,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ===================================================live============================================================================
 
-
-
-
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6571800/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 
 ======================AL QURAN==========================
 
