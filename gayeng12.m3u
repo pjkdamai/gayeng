@@ -293,8 +293,8 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=666&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=666&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=206&type=drm
+http://gatotkaca007.serv00.net/red/play.mpd?id=206&type=dash
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 #https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
