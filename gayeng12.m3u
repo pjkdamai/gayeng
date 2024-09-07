@@ -441,7 +441,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash_vmx/France24.mpd|
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-id="CGTN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/PpY42.png",07.CGTN
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1070,29 +1071,28 @@ http://103.120.172.74:5500
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten1.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Jb3.png",05.Sony Ten1 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten1.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten2.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9QmW.png",05.Sony Ten2 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten2.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten3.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9byR.png",05.Sony Ten3 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten3.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten4.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9AFp.png",05.Sony Ten4 HD  
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten4.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonysix.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Csf.png",05.Sony Ten5 HD  
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten5.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpJf8.png" group-title="Semprotan1",04.True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-https://raw.githubusercontent.com/Playidtv2/m3u/main/stream/now/trueepl1.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9kmY.png" group-title="Semprotan1",04.True Premier Football 2 
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -1217,11 +1217,12 @@ http://103.120.172.74:1030
 http://103.120.172.74:4700
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h02sG.png" group-title="Semprotan1",CCTV5
-http://198.16.100.90:8278/cctv5/playlist.m3u8?tid=MD2D5656337456563374&ct=19225&tsum=29861256a9ff86acc68cce955fb93829
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Semprotan1",CCTV5+
-#http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-http://198.16.100.90:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKNM295/bi.png" group-title="Semprotan1",BeinSport 1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1229,7 +1230,7 @@ http://198.16.100.90:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKNM295/bi.png" group-title="Semprotan1",BeinSport 3
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1237,7 +1238,7 @@ https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-id="810.astro" tvg-logo="https://i.ibb.co/qCgYVQg/bsar.png" group-title="Semprotan1",beIN 01
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -1456,8 +1457,8 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd 
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDMGs.png",00.ZONA DAZN   
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="elevensports1poland.pl" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png", Eleven Sports PRO LEAGUE 1
@@ -1465,22 +1466,22 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1716799712c744198e1a1c9d354dda6d:a148e55e5535bbfb7dc24c224d2683e4
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 group-title="Semprotan2" tvg-id="elevensports2poland.pl" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png", Eleven Sports PRO LEAGUE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDmeR.png" group-title="Semprotan2",04.Sport TV 1 
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8 
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8 
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD9wp.png" group-title="Semprotan2",04.Sport TV 2 
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8 
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8 
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV3" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDarf.png" group-title="Semprotan2",04.Sport TV 3 
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8 
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8 
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV4" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDpMZ.png" group-title="Semprotan2",04.Sport TV 4 
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8 
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8 
 
 #EXTINF:-1 group-title="Semprotan2" tvg-id="foxsports1.us" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD0ZB.png",FS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
@@ -1639,6 +1640,13 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-035/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-036/stream.mpd
+
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0MP3.png",SPORT DIGITAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa25o.png" group-title="Semprotan2",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa4QB.png" group-title="Semprotan2",Motorvision TV
@@ -1730,31 +1738,31 @@ https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9270bf19c3e544e6916c9d5fc70a182f:b0ccd22ed270027943f84da75232318d
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPNHD_24521/manifest.mpd
+#https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPNHD_24521/manifest.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png", ESPN 2 usa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=883d6c6242a046bfbb3eb738eec1fe63:d0d1926c697baba0dfda82ac456faa9e
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPN2HD_24522/manifest.mpd
+#https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPN2HD_24522/manifest.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png", ESPN 1 cili
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cd890259fc683350f6f63409ea980e8:bbf1cb549696541148e85f513d737105
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
+#https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
 #https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png", ESPN 2 cili
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46bb4145fdcdef2bd9c94786a44c73b3:85edb7f2113ec0f9bada174c196d8e2d
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
+#https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
 #https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png", ESPN 3 cili
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ea601d13527522a978e8a345d54561f:377e43ddf66521876d483cbe935d5611
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN3HD/dash_fk/index.mpd
+#https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN3HD/dash_fk/index.mpd
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.ibb.co/MRW6j7x/espn-e.png", ESPN extra
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93195148e6b1f97cdd31224d04db2e0d:dd7fcfad44d7e498daf1f5cb8c09d5e3
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd
+#https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd
 #EXTINF:-1 group-title="Semprotan2" tvg-id="spotv2.kr" tvg-logo="https://i.ibb.co/Wpkhy1g/v1.png",VSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1800,11 +1808,7 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0i2W.png",FIFA +2
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #http://smart-tv.cc:8080/steveny5997/54332611/447894
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0MP3.png",SPORT DIGITAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvBPp.png",PolsatSports 1
 #https://cdn-global.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvF2f.png",PolsatSports 2
@@ -1905,14 +1909,14 @@ https://cors-proxy.pulsesoftware.com/http://video.beeline.tv/live/d/channel377.i
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
+#https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
 
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDOn2.png",00.DAZN Bein Sports En Español
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
+#https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDsVT.png",03.TNT Sports 1 
 #EXTGRP:Semprotan2 
