@@ -202,8 +202,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Re
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="Lokal",03.SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjRhu.png" group-title="Lokal",04.Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -211,7 +213,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjV4C.png" group-title="Lokal",05.ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -376,7 +378,7 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 #EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjcCB.png",33.CITRA BIOSKOP
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
