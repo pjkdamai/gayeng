@@ -116,11 +116,11 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ===================================================live============================================================================
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 1
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/bet6571800/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 2
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 
@@ -1960,7 +1960,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+https://proji.glitch.me/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtMxhqN/usa1.png>",Usa Network
 #EXTGRP:Semprotan2 
