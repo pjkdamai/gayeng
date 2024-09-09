@@ -688,12 +688,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rock
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcCkT.png" group-title="Movies",22.Sony Max
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonymax.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcITG.png" group-title="Movies",22.Sony TV
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/sonytv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcgPL.png" group-title="Movies",22.Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pc4uW.png" group-title="Movies",24.First Highlight
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/firsthighlight.m3u8
