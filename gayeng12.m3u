@@ -701,7 +701,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/firsthighlight.m3u8
 #https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="starch1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcMHR.png",25.Star Channel 1 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="Movies" tvg-id="starch3" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pckmf.png",25.Star Channel 3 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 group-title="Movies" tvg-id="starch2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pcibp.png",25.Star Channel 2
@@ -715,9 +715,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://i.ibb.co/CKPDxdX/siar.png",23.SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+#https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png",26.WARNER TV
+#EXTINF:-1 group-title="Movies" tvg-id="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png",23.WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
@@ -771,7 +771,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTLZqDn/my-kids.png" group-title="KIDS",11.Mykids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bL56FIm.png" group-title="KIDS",11.Mykids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/&user-agent=Android
@@ -863,7 +863,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/Cri
 #KODIPROP:inputstream.adaptive.license_key=87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TbfgcFf/out.png" group-title="KNOWLEDGE" tvg-id="National Geographic HD" tvg-name="National Geographic HD",Outdoor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pWSYYcK.png" group-title="KNOWLEDGE" tvg-id="National Geographic HD" tvg-name="National Geographic HD",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -904,7 +904,7 @@ http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrvJp1D/nasa.png" group-title="KNOWLEDGE",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 
@@ -1002,18 +1002,14 @@ https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po07p.png" group-title="ENTERTAIN",07.Fashion tv India
 #https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
-#EXTINF:-1 tvg-logo="https:https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv Midnight 2
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv Midnight 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
-#EXTINF:-1 tvg-logo="https:https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv fitnes
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv fitnes
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="ENTERTAIN",BAYWATCH
 https://i.mjh.nz/SamsungTVPlus/DEBD26000020X.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz4Fbv0/kpop.png" group-title="ENTERTAIN",K-POP
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz4Fbv0/kpop.png" group-title="ENTERTAIN",K-POP2
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PobRY.png" group-title="ENTERTAIN" tvg-id="besmart" tvg-name="BeSmart",01.Mtv 
 http://187.95.95.243/mtv/mono.m3u8  
 
