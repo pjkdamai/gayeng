@@ -118,8 +118,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-https://1s1.rctiplus.id/inews2023.m3u8
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
