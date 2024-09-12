@@ -416,7 +416,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjjSh.png",34.Jowo
+#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/xNYmfnp.png",34.Jowo
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1047,6 +1047,16 @@ https://cors-proxy.cooks.fyi/https://fash1043.cloudycdn.services/slive/_definst_
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="ENTERTAIN",BAYWATCH
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPS2NzU.png" group-title="ENTERTAIN",Nitro cyrcus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpee24I.png" group-title="ENTERTAIN",So...Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1KeQUbP.png" group-title="ENTERTAIN",Scientology Network
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1QroElZ.png" group-title="ENTERTAIN",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 
 
 
