@@ -1200,6 +1200,7 @@ https://d25tgymtnqzu8s.cloudfront.net:443/smil:sukan/manifest.mpd?id=6
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="unifiSports1.My" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9lhs.png" group-title="Semprotan1",3bbTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
@@ -1329,7 +1330,7 @@ https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/408/default_primary.mpd
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX01o_VaSCzK95XL9F1qQRl00
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILk8Kd3CnPK_zQZ8Rcdwp1VM
 
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1337,7 +1338,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX01o_VaSCzK95XL9F1qQRl00
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/5066/default.mpd
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX08ypDdlxHCES5tOpPLLMqvY
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmhZ_CjOPv9sDqWB-2b0Tkc
 
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1345,7 +1346,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX08ypDdlxHCES5tOpPLLMqvY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/2705/default.mpd
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xEaF4Wo3suZA9q3nfGzFys
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7czMK3SJMvZNltA5M-hJs
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1355,7 +1356,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xEaF4Wo3suZA9q3nfGzFys
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/dashiso/2604/default.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0_WDoPrpsS8WJHVxG6cLT3s
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr6tYu3go-RXr5T_o0fXDQQ
 
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",02.Arena 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1365,7 +1366,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0_WDoPrpsS8WJHVxG6cLT3s
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/dashiso/5057/default.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0-J3Qnx5GjWyNAggb-Xh5Tw
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjvbheYF3I2eVQrQvw2irpA
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
