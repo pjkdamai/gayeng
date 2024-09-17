@@ -1036,13 +1036,13 @@ https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po07p.png" group-title="ENTERTAIN",07.Fashion TV spain
 #https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoleZ.png" group-title="ENTERTAIN",07.Fashion Global
-https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+https://cors-proxy.cooks.fyi/http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po07p.png" group-title="ENTERTAIN",07.Fashion tv India
 #https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv Midnight 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv fitnes
-https://cors-proxy.cooks.fyi/https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+https://cors-proxy.cooks.fyi/http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="ENTERTAIN",BAYWATCH
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
