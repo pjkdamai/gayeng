@@ -1272,12 +1272,12 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h02sG.png" group-title="Semprotan1",CCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://proji.glitch.me/http://120.77.28.4:8648/mgu.php?id=cctv5
-#https://cors-proxy.cooks.fyi/https://iptv.stcwl.xyz/udp/239.10.0.102:1025
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Semprotan1",CCTV5+
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://proji.glitch.me/http://120.77.28.4:8648/mgu.php?id=cctv5p
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+https://proji.glitch.me/http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKNM295/bi.png" group-title="Semprotan1",BeinSport 1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
