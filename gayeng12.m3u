@@ -529,17 +529,19 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channe
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 group-title="NEWS" tvg-id="RRII NET" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/Ppzci.png",17.RRI NET
-https://rrinet.rri.co.id/hls/live.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://103.160.205.142:9999/stream/channelid/834158169?profile=pass
 
 #EXTINF:-1 group-title="NEWS" tvg-id="ANTARA TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/Pp0Yh.png",18.ANTARA TV
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/139/antara/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://103.160.205.142:9999/stream/channelid/1892526838?profile=pass
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/PpXlp.png",19.BTV NEWS
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 =========================MOVIES==========================
 
-#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj3CD.png" group-title="Movies",01.MOVIE SHAPIER
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj3CD.png" group-title="Movies",01.MOVIE SPHERE
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
