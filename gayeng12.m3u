@@ -120,6 +120,12 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
@@ -127,11 +133,7 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
 
 ======================AL QURAN==========================
 
@@ -217,9 +219,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Re
 https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="Lokal",03.SCTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=204&type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=204
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjRhu.png" group-title="Lokal",04.Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -739,8 +740,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pc4uW.png" group-title="Movies",24.First Highlight
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/firsthighlight.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjtaQ.png" group-title="Movies",25.VIP Comedy HD
 #https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
@@ -754,9 +755,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/firsthighlight.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="starch1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcMHR.png",25.Star Channel 1 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="Movies" tvg-id="starch3" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pckmf.png",25.Star Channel 3 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 group-title="Movies" tvg-id="starch2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pcibp.png",25.Star Channel 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
 
 #EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcsyZ.png" group-title="Movies",26.Dunia Sinema
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1109,7 +1110,11 @@ https://stream6.scientology.org/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHqcZJN.png" group-title="ENTERTAIN",POP Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvXEBQr.png" group-title="ENTERTAIN",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
  =========================SEMPROTAN1======================
 
@@ -1324,15 +1329,15 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h02sG.png" group-title="Semprotan1",CCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 http://tnvcn.com:8012/rtp/239.3.1.173:8001$北京uni1+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Semprotan1",CCTV5+
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://proji.glitch.me/http://120.77.28.4:8648/mgu.php?id=cctv5p
+#https://proji.glitch.me/http://120.77.28.4:8648/mgu.php?id=cctv5p
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
-http://tnvcn.com:8012/rtp/239.3.1.130:8004$北京uni1+
+#http://tnvcn.com:8012/rtp/239.3.1.130:8004$北京uni1+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKNM295/bi.png" group-title="Semprotan1",BeinSport 1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1486,7 +1491,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2506/default.mpd
+https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
