@@ -1338,7 +1338,7 @@ http://tnvcn.com:8012/rtp/239.3.1.173:8001$北京uni1+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Semprotan1",CCTV5+
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://proji.glitch.me/http://120.77.28.4:8648/mgu.php?id=cctv5p
+https://cors-proxy.cooks.fyi/http://120.77.28.4:8648/mgu.php?id=cctv5p.ts
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
 #http://tnvcn.com:8012/rtp/239.3.1.130:8004$北京uni1+
 
@@ -1425,10 +1425,16 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
 #https://cors-proxy.cooks.fyi/http://j.jserv.me/live/DemMavs/x6yLQFx1L5/b56a4938-16c7-46cb-afb1-82633982028e.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9YgSzW/ad1.png" group-title="Semprotan1",ABU DHABI SPORTS 1
-#https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QprYNpG/ad2.png" group-title="Semprotan1",ABU DHABI SPORTS 2
-#https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 1
+https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 2
+https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=mts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 3
+https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 4
+https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 5
+https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
 
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P922S.png" group-title="Semprotan1",beIN Sports 1my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1436,7 +1442,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/408/default_primary.mpd
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILk8Kd3CnPK_zQZ8Rcdwp1VM
+https://proji.glitch.me/https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILk8Kd3CnPK_zQZ8Rcdwp1VM
 
 #EXTINF:-1 tvg-id="817.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P94ud.png" group-title="Semprotan1",beIN Sports 2my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1444,7 +1450,7 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILk8Kd3CnPK_zQZ8Rcdwp1VM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/5066/default.mpd
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmhZ_CjOPv9sDqWB-2b0Tkc
+https://cors-proxy.cooks.fyi/https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmhZ_CjOPv9sDqWB-2b0Tkc
 
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9MHo.png" group-title="Semprotan1",beIN Sports 3my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1452,7 +1458,7 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmhZ_CjOPv9sDqWB-2b0Tkc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/2705/default.mpd
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7czMK3SJMvZNltA5M-hJs
+https://cors-proxy.cooks.fyi/https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7czMK3SJMvZNltA5M-hJs
 
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",02.Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1494,7 +1500,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
@@ -1990,9 +1996,9 @@ https://jmp2.uk/sam-USBD12000255B.m3u8
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvBPp.png",PolsatSports 1
-https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvF2f.png",PolsatSports 2
-https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://i.ibb.co/7X7d6jt/mtv1.png",mtv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
