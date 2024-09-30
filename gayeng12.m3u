@@ -135,6 +135,12 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium1/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://mpwtv.my.id/u16.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://mpwtv.my.id/u17.m3u8
 
 
 
@@ -383,7 +389,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj2wZ.png" group-title="Lokal",32.UseePrime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -419,7 +425,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/xNYmfnp.png",34.Jowo
+#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/xNYmfnp.png",31.Jowo
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1085,13 +1091,13 @@ https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po07p.png" group-title="ENTERTAIN",07.Fashion TV spain
 #https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoleZ.png" group-title="ENTERTAIN",07.Fashion Global
-https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+https://cors-proxy.cooks.fyi/https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po07p.png" group-title="ENTERTAIN",07.Fashion tv India
 #https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv Midnight 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="ENTERTAIN",Fashion tv fitnes
-https://cors-proxy.cooks.fyi/https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+https://cors-proxy.cooks.fyi/https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="ENTERTAIN",BAYWATCH
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
