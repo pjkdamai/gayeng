@@ -1948,10 +1948,10 @@ https://jmp2.uk/sam-US2700001QY.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c
+#KODIPROP:inputstream.adaptive.license_key=8d1be59cc758ccbab3c567343d5d2915:4744fd0e3fc5aaae961f468925ac2b73
 https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
 
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png", ESPN 3 
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png", ESPN 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
