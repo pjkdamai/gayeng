@@ -2187,8 +2187,8 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12252/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=232bb3c31b088654ae5176da9c358808:4708b352ee1d50ccdf94af9d2a952ed8
-https://cors-proxy.cooks.fyi/https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx
-#http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
+#https://cors-proxy.cooks.fyi/https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr9TlKG.png",YES Sport 5 Live HD🇮🇱
 #EXTGRP:Semprotan2 
@@ -2197,8 +2197,8 @@ https://cors-proxy.cooks.fyi/https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da7c66ccf42f459c00fdf1ad847d4fc0:13a48dc2c1257fd9a119b448de5225f6
-https://proji.glitch.me/https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx
-#http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12254/index.m3u8
+#https://proji.glitch.me/https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12254/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr9TlKG.png",YES Sport 5 Stars HD🇮🇱
 #EXTGRP:Semprotan2 
