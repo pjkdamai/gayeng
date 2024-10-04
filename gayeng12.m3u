@@ -592,9 +592,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="Movies",05.HBO HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
@@ -2182,7 +2180,11 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12252/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr9TlKG.png",YES Sport 5 HD🇮🇱
 #EXTGRP:Semprotan2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=232bb3c31b088654ae5176da9c358808&key=4708b352ee1d50ccdf94af9d2a952ed8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx
+#http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr9TlKG.png",YES Sport 5 Live HD🇮🇱
 #EXTGRP:Semprotan2 
