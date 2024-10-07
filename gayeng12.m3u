@@ -1208,26 +1208,21 @@ https://nowsports.in/sliv/stream.php?id=96585698&=.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten3.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9byR.png",05.Sony Ten3 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55281
+https://nowsports.in/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten4.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9AFp.png",05.Sony Ten4 HD  
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9
 #https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonysix.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Csf.png",05.Sony Ten5 HD  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=940de883731a45a68770212a2ea15b9c:2c3678be523430a60c406bf6a8d9accf
-https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
-
+#https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
+https://nowsports.in/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpJf8.png" group-title="Semprotan1",04.True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
