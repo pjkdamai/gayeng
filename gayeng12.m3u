@@ -2006,31 +2006,27 @@ https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e90836d23b4ec1b5618b2e4f3a470d38:08f968dd99717b22564fe1089258eb40
 #https://aba5sdmaaaaaaaamo56zosqr4m7j7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0y0tptbbjk/out/v1/8b1b95c2e6dc496abe14a3ae5c675917/cenc.mpd
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PphFi.png", FOX SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5410bf674794451dd631a5b970b76a6:c7a174308083f0edc8be1908dc9cfa6c
-#https://dish.akamaized.net/Content/DASH/Live/channel(foxsportshd)/variant.mpd
-#EXTINF:-1  group-title="Semprotan2",tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/Ppnsh.png", FOX SPORTS br2 
-#http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PprTz.png", FOX SPORTS br3 
-#http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PphFi.png", FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
+#EXTINF:-1  group-title="Semprotan2",tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/Ppnsh.png",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PprTz.png", FOX SPORTS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 1
-http://190.60.32.178:8178/play/a02k/index.m3u8
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn 2
-http://190.60.32.178:8178/play/a02x/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png",espn 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn 3
-http://190.60.32.178:8178/play/a015/index.m3u8
-
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png",espn 4
-http://190.60.32.178:8178/play/a0ab/index.m3u8
-
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 5
-http://190.60.32.178:8178/play/a0ac/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cors-proxy.cooks.fyi/http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
 
 #EXTINF:-1 group-title="Semprotan2" tvg-id="spotv2.kr" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/Pvzc3.png",Via Play extra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
