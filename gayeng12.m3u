@@ -141,6 +141,8 @@ http://mpwtv.my.id/u16.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://mpwtv.my.id/u17.m3u8
+https://play-gachor.xyz:443/play/XFW_hg_CyHa09HxwZyD874pLcUkp_WJXv3MvmKaMxFA/ts
+https://play-gachor.xyz:443/rony@villas/yNDW94GrqD/305
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 7
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -1198,20 +1200,26 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=0000001
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten1.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Jb3.png",05.Sony Ten1 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
-https://dai.google.com/linear/hls/event/u3knVFSpSiqIwhWNkIYjzA/master.m3u8
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55284
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten2.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9QmW.png",05.Sony Ten2 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://dai.google.com/linear/hls/event/I94GnU8HREe_yJ57haHMXA/master.m3u8
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55282
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten3.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9byR.png",05.Sony Ten3 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55281
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten4.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9AFp.png",05.Sony Ten4 HD  
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+#https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonysix.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Csf.png",05.Sony Ten5 HD  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1996,15 +2004,15 @@ https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8
 #https://play.stirilepe.net/sportextrahd/index.m3u8|referer=https://rds.live/
 
 
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.imgur.com/1faNciY.png", FOX SPORTS 1arg
+#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://i.imgur.com/1faNciY.png", FOX SPORTS 1arg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium787/index.m3u8
-#EXTINF:-1  group-title="Semprotan2",tvg-logo="https://i.imgur.com/a5iUxD0.png", FOX SPORTS 2arg
+#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://i.imgur.com/a5iUxD0.png", FOX SPORTS 2arg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.imgur.com/altk3VS.png", FOX SPORTS 3arg
+#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://i.imgur.com/altk3VS.png", FOX SPORTS 3arg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium789/index.m3u8
@@ -2015,7 +2023,7 @@ https://webhdrunns.mizhls.ru/lb/premium789/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=913680cbb31c57ae4004ec030b5ec223:5ea27cc20c4fa3474e67c1a8083e45c9
-https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd
+#https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd
 
 #EXTINF:-1  group-title="Semprotan2",tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/Ppnsh.png",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2023,7 +2031,7 @@ https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29d389f476fe821be2fa93f48377cf66:a9edff53a726d123acfed56e68d0299e
-https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfvez6cbji/out/v1/108bfdad52584b3dac8da45d0b679e7d/cenc.mpd
+#https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfvez6cbji/out/v1/108bfdad52584b3dac8da45d0b679e7d/cenc.mpd
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PprTz.png", FOX SPORTS 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2031,7 +2039,7 @@ https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e90836d23b4ec1b5618b2e4f3a470d38:08f968dd99717b22564fe1089258eb40
-https://aba5sdmaaaaaaaamo56zosqr4m7j7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0y0tptbbjk/out/v1/8b1b95c2e6dc496abe14a3ae5c675917/cenc.mpd
+#https://aba5sdmaaaaaaaamo56zosqr4m7j7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0y0tptbbjk/out/v1/8b1b95c2e6dc496abe14a3ae5c675917/cenc.mpd
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn News
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
