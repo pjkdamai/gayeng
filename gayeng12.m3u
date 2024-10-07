@@ -1942,7 +1942,8 @@ https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
 #http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaXWu.png" group-title="Semprotan2" ,CBS Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan2" ,beIN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -2016,19 +2017,19 @@ https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PprTz.png", FOX SPORTS br3 
 #http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 1
+http://190.60.32.178:8178/play/a02k/index.m3u8
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn 2
+http://190.60.32.178:8178/play/a02x/index.m3u8
 
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn 
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn 3
+http://190.60.32.178:8178/play/a015/index.m3u8
 
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png",espn 4
+http://190.60.32.178:8178/play/a0ab/index.m3u8
 
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/PvdAm.png",espn  
-
-
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpF2x.png",espn 
-
-
-#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 
-
+#EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png",espn 5
+http://190.60.32.178:8178/play/a0ac/index.m3u8
 
 
 #EXTINF:-1 group-title="Semprotan2" tvg-id="spotv2.kr" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/Pvzc3.png",Via Play extra
