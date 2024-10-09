@@ -1200,7 +1200,9 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=0000001
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten1.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Jb3.png",05.Sony Ten1 HD  
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://nowsports.in/sliv/stream.php?id=7541236&=.m3u8
+#https://nowsports.in/sliv/stream.php?id=7541236&=.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/sony1.m3u8
+
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten2.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9QmW.png",05.Sony Ten2 HD  
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php?id=96585698
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7412.EU
@@ -1459,7 +1461,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd|refe
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+#https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=ts
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/hubp1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
