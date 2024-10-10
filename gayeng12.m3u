@@ -1200,13 +1200,13 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=0000001
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten1.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9Jb3.png",05.Sony Ten1 HD  
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://nowsports.in/sliv/stream.php?id=7541236&=.m3u8
+https://cors-proxy.cooks.fyi/https://nowsports.in/sliv/stream.php?id=7541236&=.m3u8
 https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/sony1.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten2.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9QmW.png",05.Sony Ten2 HD  
 #EXTVLCOPT:http-referrer=https://nowsports.in/sliv/play.php?id=96585698
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7412.EU
-https://nowsports.in/sliv/stream.php?id=96585698&=.m3u8
+https://cors-proxy.cooks.fyi/https://nowsports.in/sliv/stream.php?id=96585698&=.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-id="sonyten3.in" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9byR.png",05.Sony Ten3 HD  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1356,7 +1356,7 @@ https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/usee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+https://cors-proxy.cooks.fyi/https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hi3ES.png" group-title="Semprotan1",Star Sport Select 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -1371,7 +1371,7 @@ http://tnvcn.com:8012/rtp/239.3.1.173:8001$北京uni1+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Semprotan1",CCTV5+
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://cors-proxy.cooks.fyi/http://120.77.28.4:8648/mgu.php?id=cctv5p.ts
+https://cors-proxy.cooks.fyi/120.77.28.4:8648/mgu.php?id=cctv5p.ts
 #http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
 #http://tnvcn.com:8012/rtp/239.3.1.130:8004$北京uni1+
 https://raw.githubusercontent.com/pjkdamai/resour/refs/heads/main/asp1.m3u8
