@@ -1535,9 +1535,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/dashiso/2604/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr6tYu3go-RXr5T_o0fXDQQ
+https://sport24.biz.id/tes/malay/astro.mpd?id=2604
 
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",02.Arena 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1545,9 +1543,11 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr6tYu3go-RXr5T_o0fXDQQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/dashiso/5057/default.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjvbheYF3I2eVQrQvw2irpA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/astro/5057
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sport24.biz.id/tes/malay/astro.mpd?id=5057
+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-title="Semprotan1",02.Assp
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
