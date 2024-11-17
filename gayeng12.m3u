@@ -1627,21 +1627,25 @@ https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd?p=web&da
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-047/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ      
+
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDWS1.png",00.EPlay Sports 1 Belgia  
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-051/stream.mpd   
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-051/stream.mpd
+
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDgoX.png",00.EPlay Sports 2 Belgia  
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-052/stream.mpd    
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-052/stream.mpd
+
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD2wN.png",00.EPlay Sports 3 Belgia  
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-053/stream.mpd  
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-053/stream.mpd
+
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDMGs.png",00.ZONA DAZN  
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
