@@ -1544,7 +1544,11 @@ https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a
 https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588910&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCnBIsT.png" group-title="Semprotan1", NOW SPORT PREMIER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://proji.glitch.me/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588909&extension=ts
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLCJhzr.png" group-title="Semprotan1", One Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
