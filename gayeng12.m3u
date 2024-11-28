@@ -1113,15 +1113,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://i.imgur.com/bXzPXLF.png" group-title="HIBURAN",SONY GEM
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://i.imgur.com/sVz1rfA.png" group-title="HIBURAN",K PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://i.imgur.com/bXzPXLF.png" group-title="HIBURAN",SONY GEM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
-https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/vfE3mI3.png" group-title="HIBURAN",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1204,11 +1209,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/V4H93He.png" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+http://iptv12k.com:35461/live/654321/123456/632.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/0l9Qor9.png" group-title="PENGETAHUAN",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+http://iptv12k.com:35461/live/654321/123456/630.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/1OjNbBQ.png" group-title="PENGETAHUAN",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1230,7 +1235,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/M3mVGrP.png" group-title="PENGETAHUAN",HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://ekdilhai.pro/USA_HISTORY/mpegts?token=5a5b9ed28d1efe17b59e5c11a64fc3fa
+http://iptv12k.com:35461/live/654321/123456/629.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/p6DHWDC.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1239,10 +1244,10 @@ http://ekdilhai.pro/USA_HISTORY/mpegts?token=5a5b9ed28d1efe17b59e5c11a64fc3fa
 https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/Prc3tcN.png" group-title="PENGETAHUAN",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/fgr5ske.png" group-title="PENGETAHUAN",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2010,7 +2015,8 @@ https://luck.openwindows038.workers.dev/play.mpd?id=205&type=hls
 #https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0y_EL6iQWGbWLHPeXPeFM3s
 
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",LIGA 1 BRI-4
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to
+http://iptv12k.com:35461/live/654321/123456/595.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",PRO LIGA 1
