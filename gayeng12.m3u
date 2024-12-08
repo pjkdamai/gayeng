@@ -1666,25 +1666,25 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd?p=web&dazm
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",ELEVEN 1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1" tvg-logo="https://i.imgur.com/kg0kZmE.png" group-title="SPORTS",ELEVEN 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bdddc3ae3bb43b7a93d6ff72991e5dc:9a1ca978d3bb5fe1300696f9683567eb
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",ELEVEN 2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2" tvg-logo="https://i.imgur.com/kg0kZmE.png" group-title="SPORTS",ELEVEN 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db4e84001a1e4fc3bf2612dc154dd75d:ad535148efdde938b29be16c9ab95134
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_sports/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",ELEVEN 3
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3" tvg-logo="https://i.imgur.com/kg0kZmE.png" group-title="SPORTS",ELEVEN 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",ELEVEN 4
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4" tvg-logo="https://i.imgur.com/kg0kZmE.png" group-title="SPORTS",ELEVEN 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
