@@ -503,7 +503,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/j1jr2He.png" group-title="TV NASIONAL",TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=734&type=hls
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -511,7 +511,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=733&type=hls
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
@@ -1638,29 +1638,33 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-032/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN ELEVEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS", DAZN 1 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN ELEVEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS", DAZN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN ELEVEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN 3 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN ELEVEN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS", DAZN 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 5" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS",DAZN ELEVEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
