@@ -486,14 +486,18 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
 ================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"f749ab71f227999bfb098f73359aac10":"4f15413f7e4767b50c48e19b7f9a2fcc"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+https://hanxinwp1.manxiao35.workers.dev/http://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4K9bq03Kghw_dDm41pDaC1k=AGuW/dash-wv/jitp-linearwm/601/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 5
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1dc92f0789f112503c0db3bde2f1210":"ddfa6e8d549b4d5177a9cade7f9a0b23"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+https://hanxinwp1.manxiao35.workers.dev/http://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bkwNW7ZeRmu1bkh77t3jWKKQ=zsTX/dash-wv/jitp-linearwm/2104/default_primary.mpd
+
 
 ==================================================================================================nasional==========================================================================================================================
 
@@ -502,28 +506,40 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/j1jr2He.png" group-title="TV NASIONAL",TRANS 7 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/NhOppi7.png" group-title="TV NASIONAL",TRANS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV 1" tvg-logo="https://i.imgur.com/Z60erAq.png" group-title="TV NASIONAL",SCTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
+https://thedream.biz.id/indonesianemas2045/rooid2.php/.mpd?id=204&type=hls
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR 1" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="TV NASIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1627,16 +1643,16 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/ou
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://i.imgur.com/T9RBJQp.png" group-title="SPORTS",EUROSPORTS 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
+#EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-031/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-031/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://i.imgur.com/T9RBJQp.png" group-title="SPORTS",EUROSPORTS 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
+#EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-032/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-032/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="https://i.imgur.com/qVSiIfF.png" group-title="SPORTS", DAZN 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
