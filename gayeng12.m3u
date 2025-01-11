@@ -1478,19 +1478,22 @@ https://webhdrus.onlinehdhls.ru/lb/premium820/index.m3u8
 https://webhdrus.onlinehdhls.ru/lb/premium822/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium558/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://ddv1.mizhls.ru/lb/premium590/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1500,7 +1503,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8
 #https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
+https://ddv1.mizhls.ru/lb/premium591/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1508,6 +1511,10 @@ https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
 #https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8
