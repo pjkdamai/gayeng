@@ -1987,12 +1987,15 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f 
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f 
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-https://aseanic.github.io/m3u8/bein1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 3" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2019,7 +2022,7 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd 
-
+https://aseanic.github.io/m3u8/bein1.m3u8
 
 ================================================================live3========================================================================================
 
