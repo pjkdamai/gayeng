@@ -1981,6 +1981,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1990,7 +1995,7 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SERI A - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 2
+#EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",SERI A - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
