@@ -486,17 +486,12 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#http://linears-playback.astro.com.my/vsg/41GpYpyPE1Rk_ebXT_sLCi4K9bq03Kghw_dDm41pDaC1k=AGuW/dash-wv/jitp-linearwm/601/default_primary.mpd
-
+https://raw.githubusercontent.com/Falshell/Falshell.github.io/refs/heads/main/SP4/Liga1.html
 
 #EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#http://linears-playback.astro.com.my/vsg/41xFQQ0ngzU4toz_CaQE4bkwNW7ZeRmu1bkh77t3jWKKQ=zsTX/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://raw.githubusercontent.com/Falshell/Falshell.github.io/refs/heads/main/MNCSP3/SP3.html
 
 
 ==================================================================================================nasional==========================================================================================================================
