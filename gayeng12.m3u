@@ -1424,12 +1424,25 @@ http://iptv12k.com:35461/654321/123456/969
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://i.imgur.com/9DgqsdL.png" group-title="SPORTS",BEIN 1 ID
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://i.imgur.com/9DgqsdL.png" group-title="SPORTS",BEIN Sport
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-#https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/139
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://i.imgur.com/9DgqsdL.png" group-title="SPORTS",BEIN 3 ID
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
+https://bein-live.FLOW.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://i.imgur.com/9DgqsdL.png" group-title="SPORTS",BEIN Extra
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11939
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://i.imgur.com/VXIw35x.png" group-title="SPORTS",SPOTV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2023,11 +2036,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qUEeYhc.png" group-title="SPORTS", USA Network (East)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
-#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/"
+#KODIPROP:inputstream.adaptive.stream_headers=Accept="*/*"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0"
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qUEeYhc.png" group-title="SPORTS", USA Network (West)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2159,9 +2178,15 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Firefox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
-https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 2" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2212,9 +2237,15 @@ https://ddv1.mizhls.ru/lb/premium575/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",MOTOGP - 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Firefox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://edge-live02-mun.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 3" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",MOTOGP - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
