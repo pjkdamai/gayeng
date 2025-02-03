@@ -1472,13 +1472,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
-https://dusk.biz.id/visas/index.mpd?id=1002
+#https://dusk.biz.id/visas/index.mpd?id=1002
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 4" tvg-logo="https://i.imgur.com/Mk1JiWI.png" group-title="SPORTS",SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
-https://dusk.biz.id/visas/index.mpd?id=1013
+#https://dusk.biz.id/visas/index.mpd?id=1013
 
 #EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/ZZCp0bz.png" group-title="SPORTS",SOCCER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2044,7 +2044,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73ac2701b01451b996ecbc187c0b02d2:ec6c1e923b6cfa6d716af5b961e9fa2d
-https://director.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd?adap=default
+#https://director.streaming.telia.com/tvm-packager-prod/group2/60b793a8baa9d58043263e7c/manifest.mpd?adap=default
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qUEeYhc.png" group-title="SPORTS", USA Network (West)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
