@@ -2187,11 +2187,9 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 1" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://181.78.106.127:9000/play/ca028/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="BUNDES LIGA - 2" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="FOOTBALL EVENT",BUNDES LIGA - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2242,15 +2240,11 @@ https://zekonew.iosplayer.ru/zeko/premium271/mono.m3u8|Referer=https://cookieweb
 
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",MOTOGP - 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="Firefox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 3" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",MOTOGP - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -2258,7 +2252,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://cookiewebplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://cookiewebplay.xyz
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="https://i.imgur.com/bS4iOB8.png" group-title="LIVE EVENT",LIGA 1 BRI-1
